@@ -1,0 +1,19 @@
+.img{
+    width:auto;
+    height:auto;
+}
+*{
+    background-color: cyan;
+}
+.header{
+    background-color: cadetblue;
+}
+.text{
+    text-align: center;
+    margin-left:200px;
+    margin-right: 200px;
+    
+}
+.annita{
+    align-tracks: center;
+}
